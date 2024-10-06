@@ -7,10 +7,12 @@ body {
     font-family: "Fira Code";
     background-color: #32302f;
     color: #d5c4a1;
+    font-size: 20px;
+    letter-spacing: 0.95px;
 }
 
 ::selection {
-    background: #689d6a;
+    background: #458588;
   }
 
 .fira-code-<uniquifier> {
