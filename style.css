@@ -1,0 +1,21 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    word-wrap: break-word;
+    font-family: "Fira Code";
+    background-color: #32302f;
+    color: #d5c4a1;
+}
+
+::selection {
+    background: #689d6a;
+  }
+
+.fira-code-<uniquifier> {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
